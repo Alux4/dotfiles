@@ -1,0 +1,5 @@
+# CAEN
+Host caen
+  HostName restricted-course.engin.umich.edu
+  User akisil
+  Compression yes
